@@ -1,1 +1,1 @@
-#Anlık konuma göre hava durumu uygulamas
+# Anlık konuma göre hava durumu uygulamas
